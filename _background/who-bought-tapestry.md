@@ -1,14 +1,19 @@
 ---
 title: Who bought tapestry?
 layout: default
-permalink: /who-bought-tapestry
+permalink: /background/who-bought-tapestry/
+image: /images/weaving/t.7a-1961_11.jpg
 ---
 
 Tapestry was always expensive, not just because it was relatively slow work but because its creation involved many people: dyers, spinners, designers, weavers and of course the wool producers and merchants.
 
 Cost increased when silk thread was used, for example to highlight folds of clothing. It became still more costly if gold or silver-wrapped thread was introduced.
 
-Tapestry detail
+<div class="text-center">
+<figure class="figure">
+<img alt="Tapestry detail" src="/images/weaving/t.7a-1961_11.jpg" />
+</figure>
+</div>
 
 These kinds of thread added to the lustre and shine of the finished piece and made it glint and shimmer in a candle-lit room.
 

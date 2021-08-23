@@ -2,7 +2,7 @@
 title: Further Reading
 layout: default
 permalink: /about/further-reading/
-image: ''
+image: '/images/weaving/t.7b-1961_1.jpg'
 ---
 ## General Books
 {: .text-info .display-5 }

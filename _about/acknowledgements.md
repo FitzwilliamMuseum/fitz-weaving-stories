@@ -2,7 +2,7 @@
 title: Acknowledgements
 layout: default
 permalink: /about/acknowledgements/
-image: ''
+image: '/images/weaving/t.7a-1961_1.jpg'
 ---
 
 I am grateful to the following at the Fitzwilliam Museum, Cambridge:

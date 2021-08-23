@@ -1,7 +1,8 @@
 ---
-title: Who wove tapestry?
+title: "Who wove the Fitzwilliam's 'Sheldon' tapestries?"
 layout: default
 permalink: /background/who-wove-tapestry/
+image: /images/weaving/weaving_stories_map.jpeg
 ---
 Many tapestries, particularly small ones, were woven by men about whom we know nothing, not even their names. However, tapestries over a certain size were often ‘signed’ with the mark of the master weaver. This was made up of his initials arranged as a pattern. It had to be registered with his local guild, which also judged the quality of the finished tapestry. If satisfactory, the guild allowed another mark, that of the city where the weaving took place, to be woven into the lower border. It was not until the seventeenth century that this system developed in England.
 
@@ -11,9 +12,12 @@ The heartlands of the tapestry industry in the sixteenth century was in what tod
 
 Others came to England, especially after 1560 following the accession of the Protestant Queen, Elizabeth I. The majority settled in London; others were invited by the town councils of Sandwich, Canterbury, Maidstone, Colchester and Norwich in the hope that new industries would revive the flagging local economies.
 
-map
-
-The towns in England where émigré weavers had settled around 1575. © The Bodleian Library, University of Oxford
+<div class="text-center">
+<figure class="figure">
+<img alt="Map of locations" src="/images/weaving/weaving_stories_map.jpeg" class="img-fluid">
+<figcaption class="figcaption">The towns in England where émigré weavers had settled around 1575. © The Bodleian Library, University of Oxford</figcaption>
+</figure>
+</div>
 
 The settlement of émigrés was encouraged by the English government, aware that England lacked skilled craftsmen in the luxury trades, and the country was importing goods that could be produced at home. Some noblemen tried to set up workshops for foreign workers, usually with the obligation that they should pass on their skills to the native-born. William Cecil, Queen Elizabeth’s Secretary, tried to establish a settlement of weavers at Stamford, Lincolnshire around 1567, not, apparently with any great success.
 
