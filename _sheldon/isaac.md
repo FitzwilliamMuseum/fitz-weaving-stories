@@ -2,7 +2,7 @@
 title: Two scenes from the life of Isaac
 layout: default
 image: /images/weaving/t.1-1953_1.jpg
-order: 2
+order: 3
 permalink: /sheldon-tapestries/two-scenes-isaac/
 ---
 

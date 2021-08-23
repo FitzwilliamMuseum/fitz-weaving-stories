@@ -49,7 +49,6 @@ t.8-1961. © Fitzwilliam Museum, Cambridge
 
 The same design was used on both sides apart from one element - the squirrel on its haunches is depicted slightly differently on each side.
 
-![](/images/weaving/t.8-1961_12.jpg){: .img-fluid }
 
 ![Details, t.8-1961. © Fitzwilliam Museum, Cambridge](/images/weaving/t.8-1961_15.jpg){: .img-fluid }
 
