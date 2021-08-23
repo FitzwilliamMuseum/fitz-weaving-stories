@@ -12,7 +12,7 @@ Analysis of a broad selection of Worcestershire, Warwickshire and Oxfordshire in
 
 Rarely can one reconstruct the appearance of these items. This dearth of information is no surprise; it is uncommon even for large hangings to be described by subject. Except where the assessors were literate, involved in the trade or where Crown property was concerned, tapestries were more often described by size and by the quality of thread used, than by themes[58](#58). But although the subjects that decorated cushions are not identified, there may occasionally be an indication of size or shape; items may be described as square, as ‘two short and one long cushions’, or as a ‘window’ cushion, presumably oblong. A listing of Katherine of Aragon's goods in 1536/35 recorded both the subjects and the sizes of her embroidered cushions; they might be either 19 inches square or 19 inches high and 38 inches, or a little more, in length[59](#59). Such dimensions are very close to those of the surviving ‘Sheldon’ items interpreted as tapestry cushions where the average dimensions are 0.5m x 0.5m (19 x 19 inches).
 
-![St Jerome in his Study, Albrecht Durer, (1514), Print, Museum Accession Number: 22-i-3-66, © Fitzwilliam Museum, Cambridge](/images/weaving/22_I_3_66_CE.jpeg)
+![St Jerome in his Study, Albrecht Durer, (1514), Print, Museum Accession Number: 22-i-3-66, © Fitzwilliam Museum, Cambridge](/images/weaving/22_I_3_66_CE.jpeg){: .img-fluid }
 
 St Jerome in his Study, Albrecht Durer, (1514), Print, Museum Accession Number: 22-i-3-66  © Fitzwilliam Museum, Cambridge
 
@@ -22,7 +22,7 @@ These dimensions are very much smaller than embroidered cushions which were ofte
 
 Moreover, tapestry sizes seem to be ill-matched for use with either chairs or stools. The square design is often too large for a chair seat, and can be seen with an ‘overlap’ riding up at the edge of the seat.
 
-![St Catharine, School of Albrecht Dürer, Hans Baldung Grien,printmaker, 1502-1546, Museum Accession Number: P.3876-R, © Fitzwilliam Museum, Cambridge](/images/weaving/P_3876_R_CE.jpeg)
+![St Catharine, School of Albrecht Dürer, Hans Baldung Grien,printmaker, 1502-1546, Museum Accession Number: P.3876-R, © Fitzwilliam Museum, Cambridge](/images/weaving/P_3876_R_CE.jpeg){: .img-fluid }
 
 St Catharine, School of Albrecht Dürer, Hans Baldung Grien,printmaker, 1502-1546,  
 Museum Accession Number: P.3876-R, © Fitzwilliam Museum, Cambridge

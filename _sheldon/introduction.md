@@ -10,16 +10,16 @@ Dr Louis Clarke presented four small late sixteenth-century tapestry items to th
 
 The fourth piece is a small purse or sweet bag[3]. At the time of their acquisition all were classified as ‘Sheldon’ products, meaning that it was thought they were woven at Barcheston, Warwickshire by weavers its owner, William Sheldon, hoped to attract there - hence the name. Although these tapestries add in several ways to our knowledge about those supposed products - three of the scenes here have not previously been known - they also raise again questions about the validity of the appellation conferred only in the 1920s without any support from direct evidence.
 
-![T.1-1953](/images/weaving/t.1-1953_1.jpg)
+![T.1-1953](/images/weaving/t.1-1953_1.jpg){: .img-fluid }
 
 Scenes from the story of Tobias, T.1-1953  
 © Fitzwilliam Museum, Cambridge
 
-![T.7a-1961](/images/weaving/t.7a-1961_1.jpg)
+![T.7a-1961](/images/weaving/t.7a-1961_1.jpg){: .img-fluid }
 Abraham about to strike Isaac, T.7a-1961  
 © Fitzwilliam Museum Cambridge
 
-![T.7b-1961](/images/weaving/t.7b-1961_1.jpg)
+![T.7b-1961](/images/weaving/t.7b-1961_1.jpg){: .img-fluid }
 
 Isaac blesses Jacob, T.7b-1961  
 © Fitzwilliam Museum, Cambridge
@@ -29,5 +29,5 @@ All three of the cushion covers share features less commonly known from the othe
 The purpose of this study is both to examine the pieces and to consider their contribution to the range of small tapestry items found all over Western Europe whose provenance is hard to identify and whose date is elusive.
 
 1. Museum accession T.1-1953.
-2. Museum accession T.7a-1961, T.7b-1961. 
+2. Museum accession T.7a-1961, T.7b-1961.
 3. Museum accession T.8-1961.

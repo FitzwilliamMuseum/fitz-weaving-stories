@@ -12,18 +12,18 @@ The origin of a tapestry design is hard to establish unless one is fortunate eno
 
 In the absence of obvious indications one turns therefore to comparative material for which there are two immediate possible sources. The work of Anthony Wells-Cole has revealed how much in English decorative art in any medium was dependent on the adaptation and use of Flemish or German prints[41](#41). Readily available Europe-wide and relatively cheap to purchase these prints were a boon to the small workshop, allowing it to economise on the cost of a designer. The practice was not restricted to smaller enterprises but can also be demonstrated in large-scale, famous tapestry series. The second option was to adapt scenes from compositions woven on a large scale. Though it is noticeable that the many small tapestries, whether known as Sheldon or clearly different in style and of a European provenance, rarely depict their subject matter in the same way as the more magnificent commissions of the same story that they faintly echo, ideas from both sources can be traced in the Fitzwilliam pieces.
 
-In the case of the Tobias scenes none of the large-scale cycles of the story that existed by the probable date of the Fitzwilliam piece would seem to have exerted an influence[42](#42). Two less ambitious sets, both woven in Brussels around 1540, each show the homecoming in ways similar to the depiction in the much smaller Fitzwilliam example. One shows his new wife waiting in the background; [43](#43) the other, [illustrated only in the French photographic archive](http://archives.getty.edu_30008/getty_images/digitalresources/tapestries/0239183.jpg), pared the _Return of Tobias_ down to its essentials but included the catching of the fish.
+In the case of the Tobias scenes none of the large-scale cycles of the story that existed by the probable date of the Fitzwilliam piece would seem to have exerted an influence[42](#42). Two less ambitious sets, both woven in Brussels around 1540, each show the homecoming in ways similar to the depiction in the much smaller Fitzwilliam example. One shows his new wife waiting in the background; [43](#43) the other, [illustrated only in the French photographic archive](http://archives.getty.edu_30008/getty_images/digitalresources/tapestries/0239183.jpg){: .img-fluid }, pared the _Return of Tobias_ down to its essentials but included the catching of the fish.
 
 It is, however, at least as probable, given the strict adherence in small-scale work to presentation of a narrative in single scenes, that the Fitzwilliam examples were influenced by the work of the artist Martin Heemskerck (1498-1574). His rendering of Tobias wrestling with the fish is very close to that on the tapestry, seen also on the two single scene examples. His depiction certainly helps the reconstruction and interpretation of the very damaged scenes, previously the only examples of this theme, found in 1928 as patches on the arms of a sofa[44](#44).
 
-![Maerten van Heemskerck's depiction of Tobias wrestling with the fish, © Fitzwilliam Museum, Cambridge](/images/weaving/m.h-i-201_201403.jpg)
+![Maerten van Heemskerck's depiction of Tobias wrestling with the fish, © Fitzwilliam Museum, Cambridge](/images/weaving/m.h-i-201_201403.jpg){: .img-fluid }
 
 Maerten van Heemskerck's depiction of Tobias  
 wrestling with the fish  
 Museum Accession Number: m-h-1-201  
 © Fitzwilliam Museum, Cambridge
 
-![t.1-1953 © Fitzwilliam Museum, Cambridge](/images/weaving/t.1-1953_4.jpg)
+![t.1-1953 © Fitzwilliam Museum, Cambridge](/images/weaving/t.1-1953_4.jpg){: .img-fluid }
 
 Detail, T.1-1953  
 © Fitzwilliam Museum, Cambridge
@@ -32,11 +32,11 @@ Detail, T.1-1953
 
 A print source is also the probable inspiration for the scene of the sacrifice in the _Life of Isaac_ cycle in the museum. The theme was enormously popular and, as in this and most smaller examples, usually depicted the moment immediately before the execution, not the approach to the place of sacrifice as in the large-scale series hanging at Hampton Court[45](#45). There are, however, so many potential print sources that isolating the exact model used in any of these small tapestries is almost impossible; the example shown is only one of many.
 
-![Detail, t.7a-1961](/images/weaving/t.7a-1961_2.jpg)
+![Detail, t.7a-1961](/images/weaving/t.7a-1961_2.jpg){: .img-fluid }
 Detail, t.7a-1961  
 © Fitzwilliam Museum, Cambridge
 
-![Gorg Pencz, Sacrifice of Isaac, Museum Accession Number: 1876.12.16-115,  © Fitzwilliam Museum, Cambridge](/images/weaving/1876.12.16-115_201403.jpg)
+![Gorg Pencz, Sacrifice of Isaac, Museum Accession Number: 1876.12.16-115,  © Fitzwilliam Museum, Cambridge](/images/weaving/1876.12.16-115_201403.jpg){: .img-fluid }
 
 Georg Pencz, Sacrifice of Isaac,  
 Museum Accession Number: 1876.12.16-115  
@@ -46,7 +46,7 @@ Museum Accession Number: 1876.12.16-115
 
 By contrast the Fitzwilliam depiction of the _Blessing of Jacob_ departs radically from many of the large-scale weavings of major Brussels ateliers of the 1540s where an architectural rather than a landscape setting was favoured. There is, however, a different interpretation in a slightly later example in the Fine Art Institute, Chicago[46](#46). The blessing is not the focus but is depicted in a vignette against a landscape background, in which Isaac lying in a canopied bed gives Jacob his blessing while Esau is still engaged in the hunt. It is very much the scene woven in the Fitzwilliam example and it is easy to appreciate how it could be adapted for use as the focus of a much smaller piece. More intriguingly still, there is a possible source that antedates the tapestries in which it is first seen, a drawing by Raphael dating to around 1522-1524, it contains more figures than the tapestry.
 
-![Isaac Blessing Jacob, print by Agostino Veneziano of a drawing by Raffaello Sanzio (1522-1524) Museum Accession Number: P.5185-R, © Fitzwilliam Museum, Cambridge](/images/weaving/p.5185-r_201403.jpg)
+![Isaac Blessing Jacob, print by Agostino Veneziano of a drawing by Raffaello Sanzio (1522-1524) Museum Accession Number: P.5185-R, © Fitzwilliam Museum, Cambridge](/images/weaving/p.5185-r_201403.jpg){: .img-fluid }
 
 Isaac Blessing Jacob, print by Agostino  
 Veneziano of a drawing by Raffaello Sanzio  
@@ -54,14 +54,14 @@ Veneziano of a drawing by Raffaello Sanzio
 Museum Accession Number: P.5185-R  
 © Fitzwilliam Museum, Cambridge
 
-![t.7b-1961_1](/images/weaving/t.7b-1961_1.jpg)
+![t.7b-1961_1](/images/weaving/t.7b-1961_1.jpg){: .img-fluid }
 
 Detail, T.7b-1961  
 © Fitzwilliam Museum, Cambridge
 
 The theme was woven, with similar details, in a small piece now in the Toms Collection[47](#47). Here Isaac also reclines in a bed, but Rebecca stands and Jacob kneels to one side. Within a simple oval frame, Delmarcel considered the piece to be of Flemish or Dutch origin.
 
-It appears again in a [tapestry woven towards the end of the century](http://archives.getty.edu_30008/getty_images/digitalresources/tapestries/0237281.jpg), c. 1590, and some forty years later in another, [very much larger weaving](http://archives.getty.edu_30008/getty_images/digitalresources/tapestries/0237286.jpg), both known only from the French photographic archive.
+It appears again in a [tapestry woven towards the end of the century](http://archives.getty.edu_30008/getty_images/digitalresources/tapestries/0237281.jpg){: .img-fluid }, c. 1590, and some forty years later in another, [very much larger weaving](http://archives.getty.edu_30008/getty_images/digitalresources/tapestries/0237286.jpg){: .img-fluid }, both known only from the French photographic archive.
 
 None of these pieces is susceptible to exact dating. Nevertheless it begins to look as though this might be a pattern in common use in workshops in territories north and east of Antwerp and thus, presumably, amongst the émigré workforce settled there[48](#48). Acquaintance with a drawing, already old by the time of its adaptation for use mid-century in the Brussels workshop of the well-known weaver Jan van Tieghem, reveals the longevity of a model which eventually passed into the pattern book of a small workshop.
 

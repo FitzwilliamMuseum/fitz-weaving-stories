@@ -14,7 +14,7 @@ The idea that the provisions of William Sheldon's will created a large and capab
 
 Numerous other mistakes marred Humphreys' work presented to and published by the Society of Antiquaries in 1924; further infelicities marked a survey by A.F. Kendrick, Keeper of Textiles at the V&A, rendering the conclusions of both men invalid[14](#14). In 1928, further research was undertaken to correct these ill-founded attributions in an attempt to stem the flow of tapestries that had come to be ascribed to the workshop, a phenomenon much helped by the behaviour of dealers[15](#15). A local archivist, E.A.B. Barnard, looked again at the terms of the will and gathered such information as he could about the man Sheldon put in charge, Richard Hyckes, and about those few who worked there. A.J.B. Wace, by then Kendrick's successor as Keeper at the Victoria and Albert Museum and a classical scholar with a deep knowledge of Greek embroideries, investigated the ever-increasing number of tapestries shown to him. Given that nothing was documented and lacking a better starting point, he cautiously accepted that the Chastleton finds were Barcheston products, qualifying that acceptance with the words "it is reasonable to assume that these tapestries were woven in the Sheldon looms." His guarded reservation is regularly overlooked[16](#16).
 
-![Detail, T.7a-1961, © Fitzwilliam Museum, Cambridge](/images/weaving/t.8-1961_9-2.jpg)
+![Detail, T.7a-1961, © Fitzwilliam Museum, Cambridge](/images/weaving/t.8-1961_9-2.jpg){: .img-fluid }
 Detail from a purse, T.8-1961  
 © Fitzwilliam Museum, Cambridge
 
@@ -22,7 +22,7 @@ From their stylistic characteristics he deduced criteria by which Sheldon tapest
 
 The cushion covers, though lacking grotesques in the lateral borders, have hunting scenes in the horizontals; the purse resembles Wace's third category which associated five small tapestries; all measured around 8 x 11 inches, all had a high warp count and a large percentage of silver thread and a striped outer border. Two had an English inscription, considered to indicate an English origin.  
 
-![Detail](/images/weaving/t.7b-1961_15.jpg)
+![Detail](/images/weaving/t.7b-1961_15.jpg){: .img-fluid }
 
 Detail, T.7b-1961  
 © Fitzwilliam Museum, Cambridge

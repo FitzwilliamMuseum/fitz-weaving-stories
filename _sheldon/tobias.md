@@ -5,7 +5,7 @@ image: /images/weaving/t.1-1953_1.jpg
 order: 2
 permalink: /sheldon-tapestries/three-scenes-tobias/
 ---
-![t.1_1953](/images/weaving/t.1-1953_1.jpg)
+![t.1_1953](/images/weaving/t.1-1953_1.jpg){: .img-fluid }
 
 Three scenes from the story of Tobias and the Angel; the journey, Tobias captures the fish, the homecoming.  
 © T.1-1953 Fitzwilliam Museum, Cambridge
@@ -22,7 +22,7 @@ Similar pieces: Two examples showing Tobias catching the fish, 7¼ x 11½ inches
 
 Tobias was told by his father to collect money deposited with a relative, a merchant in a distant town; before he went he was to find a trustworthy companion. That companion was the Angel Raphael and together with Tobias' dog they set out. Catching a large fish in the river Tigris they preserved its innards as medicine. When they reached their destination Tobias married the merchant's daughter, whose previous seven husbands had died on the wedding night. Tobias however, offered parts of the fish as a sacrifice and, also offering prayers, was saved. When he returned home the remaining parts of the fish cured his father's blindness.
 
-![](/images/weaving/t.1-1953_8.jpg)
+![](/images/weaving/t.1-1953_8.jpg){: .img-fluid }
 
 Detail from T.1-1953  
 © Fitzwilliam Museum, Cambridge
@@ -31,7 +31,7 @@ Each of the three scenes is framed within an arch supported by marbled columns �
 
 
 
-![Detail from T.1-1953 © Fitzwilliam Museum, Cambridge](/images/weaving/t.1-1953_14.jpg)
+![Detail from T.1-1953 © Fitzwilliam Museum, Cambridge](/images/weaving/t.1-1953_14.jpg){: .img-fluid }
 
 Detail from T.1-1953  
 © Fitzwilliam Museum, Cambridge
@@ -40,7 +40,7 @@ In the spandrels at either side is a carnation, while a cherub's face peers from
 
 
 
-![](/images/weaving/t.1-1953_11.jpg)
+![](/images/weaving/t.1-1953_11.jpg){: .img-fluid }
 
 Detail from T.1-1953  
 © Fitzwilliam Museum, Cambridge
@@ -49,7 +49,7 @@ A thin strip of geometric decoration closes the lower edge of each arched sectio
 
 In the first scene the Angel Raphael and Tobias are seen against a mountainous landscape background with a city on the skyline and a moated castle in the foreground. The dress of both figures is heavy with gilt thread, an unusual element, carried over also into the other two scenes. The colours of their respective costumes contrast strongly; Tobias wears a red cloak over his white tunic and grasps a staff; the angel wears a long gown in two parts – red and blue - but is bare-armed. Just visible is a dog, not a fanciful touch but part of the biblical story.
 
-![Detail from T.1-1953 © Fitzwilliam Museum, Cambridge](/images/weaving/t.1-1953_3.jpg)
+![Detail from T.1-1953 © Fitzwilliam Museum, Cambridge](/images/weaving/t.1-1953_3.jpg){: .img-fluid }
 Detail from T.1-1953  
 © Fitzwilliam Museum, Cambridge
 
@@ -57,13 +57,13 @@ Detail from T.1-1953
 
 In the second scene Tobias wrestles with the fish, watched by the angel but not the dog, dressed in the same strongly contrasting colours as before. The River Tigris, now heavily repaired and looking more like the sea, occupies much of the middle ground; beyond, a large castle stands against a background of mountains and trees. The depiction differs in many details from the two other much smaller surviving examples, one of them on display at Parham House, Sussex, where the background is reduced and the figures become more dominant.
 
-![](/images/weaving/t.1-1953_4.jpg)
+![](/images/weaving/t.1-1953_4.jpg){: .img-fluid }
 
 Detail from T.1-1953  © Fitzwilliam Museum, Cambridge
 
 Harder to identify, the third scene probably represents the homecoming of Tobias.
 
-![](/images/weaving/t.1-1953_5.jpg)
+![](/images/weaving/t.1-1953_5.jpg){: .img-fluid }
 
 Detail of the front and the reverse sides of the tapestry, T.1-1953 © Fitzwilliam Museum, Cambridge
 
@@ -72,38 +72,38 @@ The biblical account says that his mother rushed out to greet him but that Tobit
 The borders
 -----------
 
-![Detail, the lower border, T.1-1953 © Fitzwilliam Museum, Cambridge](/images/weaving/T.1-1953_15.jpg)
+![Detail, the lower border, T.1-1953 © Fitzwilliam Museum, Cambridge](/images/weaving/T.1-1953_15.jpg){: .img-fluid }
 
 Detail, the lower border, T.1-1953 © Fitzwilliam Museum, Cambridge
 
 Examination of the borders plays an important part in the study of 'Sheldon' tapestries. Once considered to be fairly uniform the increased number of tapestries so-called reveals considerable variations. The borders here contain features less commonly met and paralleled in only seven other long cushion covers, only two of which were known to the earliest survey of the tapestries in 1928.
 
-![Detail, the left hand vertical border, T.1-1953 <br/>© Fitzwilliam Museum, Cambridge](/images/weaving/T.1-1953_16.jpg)
+![Detail, the left hand vertical border, T.1-1953 <br/>© Fitzwilliam Museum, Cambridge](/images/weaving/T.1-1953_16.jpg){: .img-fluid }
 Detail, the left hand vertical border, T.1-1953 © Fitzwilliam Museum, Cambridge
 
 The centre of the vertical border is occupied by a male halberdier in breeches (depicted in fawn on the left side, and blue on the right), a motif paralleled in work from Oudenarde. Each faces into the field beneath a red arch decorated with dots[4](#4). Above and below is an arrangement of leaves, fruit, gourds and a few flower heads not, as so often, in an elongated vase but apparently freestanding.
 
-![](/images/weaving/t.1-1953_13.jpg)
+![](/images/weaving/t.1-1953_13.jpg){: .img-fluid }
 
-![](/images/weaving/t.1-1953_9.jpg)
+![](/images/weaving/t.1-1953_9.jpg){: .img-fluid }
 Detail from T.1-1953 © Fitzwilliam Museum, Cambridge.
 
 Separated from the vertical by a strapwork quatrefoil, unusual in 'Sheldon' work, the foliage motif to which a bird has been added continues in the upper and lower borders[5](#5).
 
-![](/images/weaving/t.1-1953_10.jpg)
+![](/images/weaving/t.1-1953_10.jpg){: .img-fluid }
 
-![](/images/weaving/t.1-1953_6.jpg)
+![](/images/weaving/t.1-1953_6.jpg){: .img-fluid }
 
 Details from T.1-1953, © Fitzwilliam Museum, Cambridge
 
-![](/images/weaving/t.1-1953_11.jpg)
+![](/images/weaving/t.1-1953_11.jpg){: .img-fluid }
 
 Detail from the lower border T.1-1953  
 © Fitzwilliam Museum, Cambridge
 
 The arrangement is interrupted by one of the many small hunting scenes regarded as typical of 'Sheldon' work. In the lower border, however, the figures are more than usually awkward; the fox is almost the size of the watching pikemen.
 
-![](/images/weaving/t.1-1953_18.jpg)
+![](/images/weaving/t.1-1953_18.jpg){: .img-fluid }
 
 Detail from the uppper border T.1-1953  
 © Fitzwilliam Museum, Cambridge
