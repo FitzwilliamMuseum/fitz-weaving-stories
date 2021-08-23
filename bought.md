@@ -1,14 +1,14 @@
 ---
-title: About the project
+title: Buying tapestry
 layout: default
-permalink: /about/
+permalink: /bought/
 ---
 <div class="container mb-3">
   <div class="row">
-{% assign rows = site.about.size | divided_by: 2.0 | ceil %}
+{% assign rows = site.bought.size | divided_by: 2.0 | ceil %}
 {% for i in (1..rows) %}
 {% assign offset = forloop.index0 | times: 2 %}
-{% assign sorted = site.about | sort:"order" %}
+{% assign sorted = site.bought | sort:"order" %}
     {% for author in sorted limit:2 offset:offset %}
     <div class="col-md-4 mb-3">
       <div class="card h-100" >
