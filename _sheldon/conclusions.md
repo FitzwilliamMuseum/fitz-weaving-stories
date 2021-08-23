@@ -1,0 +1,35 @@
+---
+title: Conclusions
+permalink: /sheldon-tapestries/conclusions/
+layout: default
+image: /images/weaving/t.7a-1961_1.jpg
+order: 7
+---
+
+
+At the end of his 1928 article Wace warned that the views expressed there would change as further information came to light. He reiterated his belief that great caution should be exercised before assigning a Sheldon origin to any piece simply out of national pride, the reason for many previous attributions. His warning has not been heeded – rather the reverse. His attempt to categorise tapestries for which there is no proven starting point has become a fixed and incontrovertible image.
+
+Wace was right to stress the provisional nature of his effort. In the eighty years that have passed since his work much new evidence has come to light; more tapestries displaying characteristics similar to those he isolated have appeared; more documents have become available through better cataloguing and much lateral research on related subjects has been carried out. All three change the 1920s picture and make its revision necessary.
+
+So how did the Fitzwilliam pieces fit with the views put forward in the 1920s and how should they now be interpreted in the light of more recent scholarship?
+
+The Fitzwilliam examples match Wace's categories only in so far as the central scene is framed by an arcade and there are hunting scenes in the horizontal borders. While making the tapestries distinctive, these characteristics can be associated with a single workshop only for as long as that workshop can be considered to have existed in isolation in England. Wace made efforts to find parallels for several of the smaller pieces he knew[62](#62), yet he remained unaware how much was derivative and never satisfactorily answered the questions of design. Working before the encyclopaedic volumes of the German researcher Heinrich Goebel, Wace necessarily studied the tapestries without a context whether text or textile. Neither he nor his collaborator considered the possibility that pieces could have been woven abroad and imported by merchants, usually émigrés, in London[63](#63). Neither researcher acknowledged, or even admitted, any contribution from émigré weavers in this country. The presence in London of at least 125 émigré weavers between 1559 and 1619 means that Barcheston's pre-eminence is forfeit[64](#64).
+
+Equally important, however, is the increase in the number of tapestries that approximately, but not exactly, fit into Wace's classification. Wace worked with four sets of large pieces (a total of fifteen pieces) and with thirty-six smaller examples. Eighteen of those showed arcades and hunting scenes; floral material occupied a significant area in thirteen, though usually as a setting for a figure and not simply as a pattern in the style of the earlier _millefleurs_ tapestries; five were small and richly woven, often with an inscription round the edge. Today 121 examples have been attributed on his criteria; sixty-eight with arcades, twenty-two floral and sixteen small pieces. Consistently however the balance in the themes chosen is weighted in favour of the narrative stories of the Old Testament including the Apocrypha over those of the New Testament. Despite increased numbers, still only five pieces draw on the latter. Recent research has brought much more change to opinions about the large sets attributed to the Sheldon workshop in the 1920s; several have been removed from the Sheldon corpus. It is possible to regard the five found at Chastleton and now dispersed as German work. In the course of conservation a weaver's mark used in Bruges from 1600 onwards was found in the right-hand edge of two pieces of the _Four Seasons_ at Hatfield; more recently still their date has been questioned[65](#65). The two unevenly sized floral pieces at Sudeley Castle can now be seen to resemble continental work, not unlike a large floral table carpet now in the United States[66](#66). The removal of these pieces from the Sheldon repertoire decisively reinforces the shift from the emphasis placed by Humphreys (1924) and Kendrick (1926) on large-scale products to small items that predominated in Wace's classification. No larger-scale examples have been found since his study[67](#67).
+
+Undoubtedly the most significant contribution of the Fitzwilliam pieces lies in the addition of three scenes not previously known in what is called the ‘Sheldon’ idiom – two pieces of Tobias and one showing the blessing of Jacob. But they are attended by all the difficulties of studying small tapestries. The best that can be done is to collect, compare and contrast examples whether found in Europe or in England in the hope that some conclusions can be drawn about their shared source material and their different styles of presentation, if not about their origins. There is one major difference in that continental small tapestries frequently depict only a single figure, often allegorical, or a single episode rather than a narrative story; sometimes the single scene or figure was woven six times to form a set. Such items were clearly a commodity which had a market, wherever it was woven, the Fitzwilliam pieces amongst them. The design of the latter might have derived from an element commonly met in tapestries woven at Oudenarde – an arch enclosing a figure, allegorical or contemporary. It might equally well have echoed motifs found on English pre-reformation church vestments where an apostle, martyr, saint or prophet was frequently embroidered within an arch. Each is an image which strikes the eye and makes a forceful impression, not easily forgotten but easily transferable to another medium. However, until a decisive piece of evidence emerges, the question of origin, intriguing as it is, must remain open.
+
+Hilary L. Turner  
+MA DPhil
+
+62. ‘The Sheldon tapestry weavers..’, _Archaeologia_ 78, p.304. [top](#ref62)
+
+63. Hilary L. Turner, ‘The Tapestry Trade in Elizabethan London’, _The London Journal_, 38(1), March 2013, 18-33. See also the inventory of Hendrik van Beeringhen 1581, in J.Denucé, Antwerpener Teppichkunst in Quellen zur Geschichte der Flamischen Kunst, iv, 1896, Antwerp, 30-36. [top](#ref63)
+
+64. Hilary L. Turner, ['Émigré tapestry weavers in Elizabethan London: people and products,'](http://www.tapestriescalledsheldon.info/pdfs/Emigreweavers.pdf) Tapestries Called Sheldon [top](#ref64)
+
+65. Michael Bath, _The Four Seasons tapestries at Hatfield House_, Archetype, 2013. [top](#ref65)
+
+66. Hilary L. Turner, [Transplanted: a floral tapestry-woven table carpet once at Knole, Kent](http://www.kentarchaeology.ac/authors2/HLTurner/HLTurner01.html) [top](#ref66)
+
+67. The so-called Crocker tapestry had no certain sixteenth-century provenance nor any marks to allow personal identification, _Apollo_, June 2007, p.78-9. Academic publication has gone no further than to suggest possible origin in England, _Bulletin of the Metropolitan Museum of Art_, Fall 2010, p. 26-27 pictured at [The Metropolitan Museum of Art](http://www.metmuseum.org/Collections/search-the-collections/120056897). [top](#ref67)
