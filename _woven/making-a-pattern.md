@@ -9,7 +9,6 @@ The subject matter of a tapestry might be decided by the patron or it might be t
 
 Tapestry, depicting the story of 'Jacob and Esau'
 
-
 <div class="row">
 <div class="col-md-6">
 <figure class="figure">
