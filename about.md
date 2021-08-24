@@ -13,7 +13,7 @@ permalink: /about/
     <div class="col-md-4 mb-3">
       <div class="card h-100" >
         <a href="{{site.url}}{{site.baseurl}}{{ author.permalink }}" class="stretched-link">
-          <img class="card-img-top" src="{{site.url}}{{site.baseurl}}{{author.image}}" alt="Card image cap" width="300" height="300"/>
+          <img class="card-img-top square" src="{{site.url}}{{site.baseurl}}{{author.image}}" alt="Card image cap" width="300" height="300"/>
         </a>
         <div class="card-body">
           <h3 class="lead mt-2">
