@@ -21,9 +21,7 @@
 title: "Weaving Stories"
 email: "dejp3@cam.ac.uk"
 description: >- # this means to ignore newlines until "baseurl:"
-  "Many stories in the Bible are very dramatic and exciting. They make good
-  pictures and have inspired artists for hundreds of years in every possible
-  medium: wood, stone, paint, glass, mosaic, weaving and embroidery."
+  A Fitzwilliam resource that discusses the Sheldon tapestries and weaving stories.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://weaving-stories.fitzmuseum.cam.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FitzMuseum_UK
