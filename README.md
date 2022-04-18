@@ -1,5 +1,7 @@
 # Weaving Stories
 
+[![DOI](https://zenodo.org/badge/399066953.svg)](https://zenodo.org/badge/latestdoi/399066953)
+
 This repository holds code and content for the Sheldon tapestries, two of the
 Fitzwilliam Museum's fine tapestries. This simple jekyll site is fully integrated
 into the content framework of the museum's digital platform.
