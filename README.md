@@ -4,6 +4,8 @@ This repository holds code and content for the Sheldon tapestries, two of the
 Fitzwilliam Museum's fine tapestries. This simple jekyll site is fully integrated
 into the content framework of the museum's digital platform.
 
+![Social card](https://repository-images.githubusercontent.com/399066953/8e6fd42c-3278-4827-a98d-0ef5e2ea33f2)
+
 ## To run locally
 
 * Install Jekyll on your machine following these [instructions](https://jekyllrb.com/docs/installation/)
