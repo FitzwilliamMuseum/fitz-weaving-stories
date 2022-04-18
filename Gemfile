@@ -12,7 +12,6 @@ gem "jekyll", "~> 4.2.0"
 gem "minima", "~> 2.5"
 gem "nokogiri"
 gem "jekyll-sitemap"
-gem "jemoji"
 gem "jekyll-mentions"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
